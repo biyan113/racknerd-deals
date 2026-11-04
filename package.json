@@ -1,0 +1,17 @@
+{
+  "name": "racknerd-deals",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "cf deploy"
+  },
+  "devDependencies": {
+    "cf": "^1.0.0-beta.26",
+    "wrangler": "^4.156.1"
+  },
+  "allowScripts": {
+    "workerd@1.20261023.1": true,
+    "workerd@1.20261101.1": true,
+    "esbuild@0.28.2": true
+  }
+}

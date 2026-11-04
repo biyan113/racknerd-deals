@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://racknerd.bytenote.net/sitemap.xml
