@@ -14,4 +14,3 @@ KVM VPS 年付，到期续费同价，支持支付宝。
 | 6 GB | 6 Cores | 6 GB | 85 GB SSD | 15 TB | 1 Gbps · 1 IPv4 | $74.98 | [立即购买](https://my.racknerd.com/aff.php?aff=3314&pid=971) |
 | 8 GB | 6 Cores | 8 GB | 140 GB SSD | 20 TB | 1 Gbps · 1 IPv4 | $94.98 | [立即购买](https://my.racknerd.com/aff.php?aff=3314&pid=972) |
 
-配置和价格以购买页为准。
